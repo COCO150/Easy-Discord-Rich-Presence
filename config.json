@@ -1,0 +1,17 @@
+{
+  "details": "",
+  "state": "",
+  "largeImageKey": "",
+  "largeImageText": "",
+  "clientId": "",
+  "buttons": {
+    "firstButton": {
+      "name": "",
+      "url": ""
+    },
+    "secondButton": {
+      "name": "",
+      "url": ""
+    }
+  }
+}

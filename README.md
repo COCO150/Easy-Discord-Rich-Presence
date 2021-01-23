@@ -10,7 +10,7 @@ Ensuite, installez le dossier en format .zip en cliquant sur le bouton vert "Cod
 Une fois téléchargé, affichez le dans le dossier, sélectionnez-le, faites clic droit dessus et cliquez sur "Extaire tout..." et mettez le dans le dossier que vous voulez.  
 Ensuite, ouvrez le dossier une fois extrait, faites clic droit sur le fichier "config.json" et ouvrez le avec bloc-note ou votre IDE. Retournez sur votre application précedemment créée et rentrez le informations suivantes dans le fichier :  
 
-```js
+```
 {
   "details": "", // ce texte d'affichera en 2ème ligne en dessous du nom de votre app.
   "state": "", // ce texte là sera juste en dessous de "details"

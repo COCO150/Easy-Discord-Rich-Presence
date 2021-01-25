@@ -1,6 +1,6 @@
 # Easy Discord Rich Presence
 Rajoutez un plus à votre expérience sur Discord grâce à un statut personnalisé !  
-Easy Discord Rich Presence est un petit script qui vous permet d'avoir un status personnalisé dit Rich Presence sur Discord et qui utilise le pacakage [discord-rpc](https://www.npmjs.com/package/discord-rpc).  
+Easy Discord Rich Presence est un petit script qui vous permet d'avoir un status personnalisé dit Rich Presence sur Discord et qui utilise le package [discord-rpc](https://www.npmjs.com/package/discord-rpc).  
 Avant de commencer, n'oubliez pas d'installer [node.js](https://nodejs.org/en/) et installez la version LTS.
 
 ## Setup
@@ -12,7 +12,7 @@ Ensuite, ouvrez le dossier une fois extrait, faites clic droit sur le fichier "c
 
 ```
 {
-  "details": "", // ce texte d'affichera en 2ème ligne en dessous du nom de votre app.
+  "details": "", // ce texte s'affichera en 2ème ligne en dessous du nom de votre app.
   "state": "", // ce texte là sera juste en dessous de "details"
   "largeImageKey": "", // le nom que vous avez mis à votre image téléchargée sur votre application dans l'onglet Rich Presence Assets
   "largeImageText": "", // le texte que vous mettez ici sera affiché lorsque vous passerez la souris sur l'image du statut

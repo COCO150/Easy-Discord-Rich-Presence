@@ -20,7 +20,7 @@ client.on("ready", () => {
 	},
 	buttons: [{ label: options.buttons.firstButton.name, url: options.buttons.firstButton.url }, { label: options.buttons.secondButton.name, url: options.buttons.secondButton.url }]
       }
-    });
+    })
     : client.request("SET_ACTIVITY", {
       pid: process.pid,
       activity: {
